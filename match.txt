@@ -1,0 +1,136 @@
+ODI # 54
+Pakistan	India	Pakistan	8 wickets	Sialkot	Oct 13, 1978	ODI # 55
+Pakistan	India	Pakistan		Sahiwal	Nov 3, 1978	ODI # 56
+Pakistan	India	Pakistan	14 runs	Gujranwala	Dec 3, 1982	ODI # 162
+Pakistan	India	Pakistan	37 runs	Multan	Dec 17, 1982	ODI # 163
+Pakistan	India	India	18 runs	Lahore	Dec 31, 1982	ODI # 164
+Pakistan	India	Pakistan	8 wickets	Karachi	Jan 21, 1983	ODI # 172
+India	Pakistan	India	4 wickets	Hyderabad (Deccan)	Sep 10, 1983	ODI # 224
+India	Pakistan	India	4 wickets	Jaipur	Oct 2, 1983	ODI # 225
+India	Pakistan	India	54 runs	Sharjah	Apr 13, 1984	ODI # 261
+Pakistan	India	Pakistan	46 runs	Quetta	Oct 12, 1984	ODI # 272
+Pakistan	India	no result		Sialkot	Oct 31, 1984	ODI # 273
+Pakistan	India	cancelled		Peshawar	Nov 2, 1984	ODI # 273a
+India	Pakistan	India	6 wickets	Melbourne	Feb 20, 1985	ODI # 309
+India	Pakistan	India	8 wickets	Melbourne	Mar 10, 1985	ODI # 319
+India	Pakistan	India	38 runs	Sharjah	Mar 22, 1985	ODI # 321
+India	Pakistan	Pakistan	48 runs	Sharjah	Nov 17, 1985	ODI # 340
+India	Pakistan	Pakistan	1 wicket	Sharjah	Apr 18, 1986	ODI # 385
+India	Pakistan	Pakistan	3 wickets	Sharjah	Dec 5, 1986	ODI # 406
+India	Pakistan	Pakistan	3 wickets	Indore	Jan 27, 1987	ODI # 426
+India	Pakistan	Pakistan	2 wickets	Kolkata	Feb 18, 1987	ODI # 434
+India	Pakistan	India		Hyderabad (Deccan)	Mar 20, 1987	ODI # 436
+India	Pakistan	Pakistan	6 wickets	Pune	Mar 22, 1987	ODI # 438
+India	Pakistan	Pakistan	41 runs	Nagpur	Mar 24, 1987	ODI # 439
+India	Pakistan	Pakistan	5 wickets	Jamshedpur	Mar 26, 1987	ODI # 440
+India	Pakistan	Pakistan	8 wickets	Sharjah	Apr 10, 1987	ODI # 447
+India	Pakistan	Pakistan	34 runs	Sharjah	Oct 19, 1988	ODI # 525
+India	Pakistan	India	4 wickets	Dhaka	Oct 31, 1988	ODI # 532
+India	Pakistan	Pakistan	6 wickets	Sharjah	Oct 15, 1989	ODI # 572
+India	Pakistan	Pakistan	38 runs	Sharjah	Oct 20, 1989	ODI # 577
+India	Pakistan	Pakistan	77 runs	Kolkata	Oct 28, 1989	ODI # 589
+Pakistan	India	abandoned		Peshawar	Dec 16, 1989	ODI # 592a
+Pakistan	India	Pakistan	7 runs	Gujranwala	Dec 18, 1989	ODI # 593
+Pakistan	India	no result		Karachi	Dec 20, 1989	ODI # 594
+Pakistan	India	Pakistan	38 runs	Lahore	Dec 22, 1989	ODI # 595
+India	Pakistan	Pakistan	26 runs	Sharjah	Apr 27, 1990	ODI # 625
+India	Pakistan	India	60 runs	Sharjah	Oct 18, 1991	ODI # 680
+India	Pakistan	Pakistan	4 runs	Sharjah	Oct 23, 1991	ODI # 684
+India	Pakistan	Pakistan	72 runs	Sharjah	Oct 25, 1991	ODI # 685
+India	Pakistan	India	43 runs	Sydney	Mar 4, 1992	ODI # 729
+India	Pakistan	Pakistan	6 wickets	Sharjah	Apr 15, 1994	ODI # 906
+India	Pakistan	Pakistan	39 runs	Sharjah	Apr 22, 1994	ODI # 912
+India	Pakistan	abandoned		Colombo (RPS)	Sep 15-16, 1994	ODI # 926a
+India	Pakistan	Pakistan	97 runs	Sharjah	Apr 7, 1995	ODI # 995
+India	Pakistan	India	39 runs	Bengaluru	Mar 9, 1996	ODI # 1078
+India	Pakistan	Pakistan	8 wickets	Singapore	Apr 5, 1996	ODI # 1091
+India	Pakistan	Pakistan	38 runs	Sharjah	Apr 12, 1996	ODI # 1094
+India	Pakistan	India	28 runs	Sharjah	Apr 15, 1996	ODI # 1098
+India	Pakistan	India	8 wickets	Toronto	Sep 16, 1996	ODI # 1115
+India	Pakistan	Pakistan	2 wickets	Toronto	Sep 17, 1996	ODI # 1116
+India	Pakistan	India	55 runs	Toronto	Sep 18, 1996	ODI # 1117
+India	Pakistan	Pakistan	97 runs	Toronto	Sep 21, 1996	ODI # 1118
+India	Pakistan	Pakistan	52 runs	Toronto	Sep 23, 1996	ODI # 1119
+India	Pakistan	Pakistan	35 runs	Chennai	May 21, 1997	ODI # 1209
+India	Pakistan	no result		Colombo (SSC)	Jul 20, 1997	ODI # 1219
+India	Pakistan	abandoned		Colombo (SSC)	Jul 21, 1997	ODI # 1219a
+India	Pakistan	India	20 runs	Toronto	Sep 13, 1997	ODI # 1227
+India	Pakistan	India	7 wickets	Toronto	Sep 14, 1997	ODI # 1228
+India	Pakistan	no result		Toronto	Sep 17, 1997	ODI # 1229
+India	Pakistan	India	34 runs	Toronto	Sep 18, 1997	ODI # 1230
+India	Pakistan	India	7 wickets	Toronto	Sep 20, 1997	ODI # 1231
+India	Pakistan	Pakistan	5 wickets	Toronto	Sep 21, 1997	ODI # 1232
+Pakistan	India	Pakistan	5 wickets	Hyderabad (Sind)	Sep 28, 1997	ODI # 1233
+Pakistan	India	India	4 wickets	Karachi	Sep 30, 1997	ODI # 1234
+Pakistan	India	Pakistan	9 wickets	Lahore	Oct 2, 1997	ODI # 1236
+India	Pakistan	Pakistan	4 wickets	Sharjah	Dec 14, 1997	ODI # 1262
+India	Pakistan	India	18 runs	Dhaka	Jan 11, 1998	ODI # 1273
+India	Pakistan	India	8 wickets	Dhaka	Jan 14, 1998	ODI # 1276
+India	Pakistan	Pakistan	6 wickets	Dhaka	Jan 16, 1998	ODI # 1277
+India	Pakistan	India	3 wickets	Dhaka	Jan 18, 1998	ODI # 1279
+India	Pakistan	India	6 wickets	Toronto	Sep 12, 1998	ODI # 1349
+India	Pakistan	Pakistan	51 runs	Toronto	Sep 13, 1998	ODI # 1350
+India	Pakistan	Pakistan	77 runs	Toronto	Sep 16, 1998	ODI # 1351
+India	Pakistan	Pakistan	134 runs	Toronto	Sep 19, 1998	ODI # 1352
+India	Pakistan	Pakistan	5 wickets	Toronto	Sep 20, 1998	ODI # 1353
+India	Pakistan	Pakistan	143 runs	Jaipur	Mar 24, 1999	ODI # 1417
+India	Pakistan	Pakistan	7 wickets	Mohali	Apr 1, 1999	ODI # 1427
+India	Pakistan	Pakistan	123 runs	Bengaluru	Apr 4, 1999	ODI # 1428
+India	Pakistan	Pakistan	116 runs	Sharjah	Apr 8, 1999	ODI # 1430
+India	Pakistan	India	6 wickets	Sharjah	Apr 13, 1999	ODI # 1435
+India	Pakistan	Pakistan	8 wickets	Sharjah	Apr 16, 1999	ODI # 1437
+India	Pakistan	India	47 runs	Manchester	Jun 8, 1999	ODI # 1476
+India	Pakistan	Pakistan	2 wickets	Brisbane	Jan 10, 2000	ODI # 1537
+India	Pakistan	Pakistan	32 runs	Hobart	Jan 21, 2000	ODI # 1543
+India	Pakistan	India	48 runs	Adelaide	Jan 25, 2000	ODI # 1547
+India	Pakistan	Pakistan	104 runs	Perth	Jan 28, 2000	ODI # 1550
+India	Pakistan	India	5 wickets	Sharjah	Mar 23, 2000	ODI # 1578
+India	Pakistan	Pakistan	98 runs	Sharjah	Mar 26, 2000	ODI # 1580
+India	Pakistan	Pakistan	44 runs	Dhaka	Jun 3, 2000	ODI # 1600
+India	Pakistan	India	6 wickets	Centurion	Mar 1, 2003	ODI # 1975
+Pakistan	India	India	5 runs	Karachi	Mar 13, 2004	ODI # 2112
+Pakistan	India	Pakistan	12 runs	Rawalpindi	Mar 16, 2004	ODI # 2114
+Pakistan	India	Pakistan	4 wickets	Peshawar	Mar 19, 2004	ODI # 2115
+Pakistan	India	India	5 wickets	Lahore	Mar 21, 2004	ODI # 2116
+Pakistan	India	India	40 runs	Lahore	Mar 24, 2004	ODI # 2117
+India	Pakistan	Pakistan	59 runs	Colombo (RPS)	Jul 25, 2004	ODI # 2152
+India	Pakistan	Pakistan	66 runs	Amstelveen	Aug 21, 2004	ODI # 2157
+India	Pakistan	Pakistan	3 wickets	Birmingham	Sep 19, 2004	ODI # 2179
+India	Pakistan	Pakistan	6 wickets	Kolkata	Nov 13, 2004	ODI # 2192
+India	Pakistan	India	87 runs	Kochi	Apr 2, 2005	ODI # 2235
+India	Pakistan	India	58 runs	Visakhapatnam	Apr 5, 2005	ODI # 2236
+India	Pakistan	Pakistan	106 runs	Jamshedpur	Apr 9, 2005	ODI # 2237
+India	Pakistan	Pakistan	3 wickets	Ahmedabad	Apr 12, 2005	ODI # 2238
+India	Pakistan	Pakistan	5 wickets	Kanpur	Apr 15, 2005	ODI # 2239
+India	Pakistan	Pakistan	159 runs	Delhi	Apr 17, 2005	ODI # 2240
+Pakistan	India	Pakistan	7 runs	Peshawar	Feb 6, 2006	ODI # 2324
+Pakistan	India	India	7 wickets	Rawalpindi	Feb 11, 2006	ODI # 2327
+Pakistan	India	India	5 wickets	Lahore	Feb 13, 2006	ODI # 2329
+Pakistan	India	India	5 wickets	Multan	Feb 16, 2006	ODI # 2331
+Pakistan	India	India	8 wickets	Karachi	Feb 19, 2006	ODI # 2333
+India	Pakistan	Pakistan	6 wickets	Abu Dhabi	Apr 18, 2006	ODI # 2363
+India	Pakistan	India	51 runs	Abu Dhabi	Apr 19, 2006	ODI # 2364
+India	Pakistan	abandoned		Glasgow	Jul 3, 2007	ODI # 2595b
+India	Pakistan	India	5 wickets	Guwahati	Nov 5, 2007	ODI # 2643
+India	Pakistan	Pakistan	4 wickets	Mohali	Nov 8, 2007	ODI # 2644
+India	Pakistan	India	46 runs	Kanpur	Nov 11, 2007	ODI # 2645
+India	Pakistan	India	6 wickets	Gwalior	Nov 15, 2007	ODI # 2646
+India	Pakistan	Pakistan	31 runs	Jaipur	Nov 18, 2007	ODI # 2647
+India	Pakistan	India	140 runs	Dhaka	Jun 10, 2008	ODI # 2705
+India	Pakistan	Pakistan	25 runs	Dhaka	Jun 14, 2008	ODI # 2707
+Pakistan	India	India	6 wickets	Karachi	Jun 26, 2008	ODI # 2717
+Pakistan	India	Pakistan	8 wickets	Karachi	Jul 2, 2008	ODI # 2730
+India	Pakistan	Pakistan	54 runs	Centurion	Sep 26, 2009	ODI # 2898
+India	Pakistan	India	3 wickets	Dambulla	Jun 19, 2010	ODI # 2996
+India	Pakistan	India	29 runs	Mohali	Mar 30, 2011	ODI # 3147
+India	Pakistan	India	6 wickets	Dhaka	Mar 18, 2012	ODI # 3263
+India	Pakistan	Pakistan	6 wickets	Chennai	Dec 30, 2012	ODI # 3314
+India	Pakistan	Pakistan	85 runs	Kolkata	Jan 3, 2013	ODI # 3315
+India	Pakistan	India	10 runs	Delhi	Jan 6, 2013	ODI # 3316
+India	Pakistan	India	8 wickets	Birmingham	Jun 15, 2013	ODI # 3372
+India	Pakistan	Pakistan	1 wicket	Dhaka	Mar 2, 2014	ODI # 3479
+India	Pakistan	India	76 runs	Adelaide	Feb 15, 2015	ODI # 3602
+India	Pakistan	India	124 runs	Birmingham	Jun 4, 2017	ODI # 3878
+India	Pakistan	Pakistan	180 runs	The Oval	Jun 18, 2017	ODI # 3894
+India	Pakistan	India	8 wickets	Dubai (DSC)	Sep 19, 2018	ODI # 4040
+India	Pakistan	India	9 wickets	Dubai (DSC)	Sep 23, 2018	
